@@ -1,51 +1,51 @@
-# Finance-Data-Portfolio
+# 💰 Finance-Data-Portfolio
 ### 👩‍💼 Data Analyst — Finance
-[View Data Analyst (Consulting) Projects](LINK_TO_CONSULTING_DA_README)
+[View Data Analyst (Finance) Projects](LINK_TO_FINANCE_DA_README)
 
-**Descriptive Analytics**
-- Project 1 – Client performance overview dashboard  
-- Project 2 – Operational KPI reporting  
+**Descriptive Analytics (What happened?)**
+- Financial performance dashboards  
+- Revenue, cost, and KPI reporting  
 
-**Diagnostic Analytics**
-- Project 3 – Root cause analysis of process delays  
-- Project 4 – Cost variance analysis  
+**Diagnostic Analytics (Why did it happen?)**
+- Variance analysis & root cause investigation  
+- Trend and anomaly analysis  
 
-**Predictive Analytics**
-- Project 5 – Demand forecasting for consulting clients  
+**Predictive Analytics (What will happen?)**
+- Revenue, expense, or demand forecasting  
 
-**Prescriptive Analytics**
-- Project 6 – Scenario analysis & recommendations  
+**Prescriptive Analytics (How can we make it happen?)**
+- Scenario analysis & decision recommendations  
 
 ---
 
 ### 🧠 Data Scientist — Finance
-[View Data Scientist (Consulting) Projects](LINK_TO_CONSULTING_DS_README)
+[View Data Scientist (Finance) Projects](LINK_TO_FINANCE_DS_README)
 
 **Descriptive Analytics**
-- Project 1 – Exploratory data analysis (EDA) for client datasets  
+- Exploratory analysis of financial datasets  
 
 **Diagnostic Analytics**
-- Project 2 – Feature importance & driver analysis  
+- Feature importance & risk driver analysis  
 
 **Predictive Analytics**
-- Project 3 – Risk prediction / classification model  
+- Credit risk, fraud detection, or price prediction models  
 
 **Prescriptive Analytics**
-- Project 4 – Optimisation & decision-support modelling  
+- Optimisation models & strategy recommendations  
 
 ---
 
 ### ⚙️ Data Engineer — Finance
-[View Data Engineer (Consulting) Projects](LINK_TO_CONSULTING_DE_README)
+[View Data Engineer (Finance) Projects](LINK_TO_FINANCE_DE_README)
 
 **Descriptive Analytics**
-- Project 1 – Data pipeline for reporting systems  
+- Financial data pipelines & reporting systems  
 
 **Diagnostic Analytics**
-- Project 2 – Data quality & anomaly detection  
+- Data quality checks & reconciliation pipelines  
 
 **Predictive Analytics**
-- Project 3 – Feature pipelines for ML models  
+- Feature pipelines for ML and forecasting models  
 
 **Prescriptive Analytics**
-- Project 4 – Scalable architecture recommendations  
+- Scalable, compliant data architecture design  
