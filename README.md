@@ -2,18 +2,18 @@
 ### 👩‍💼 Data Analyst — Finance
 [View Data Analyst (Finance) Projects](LINK_TO_FINANCE_DA_README)
 
-**Descriptive Analytics (What happened?)**
+**Descriptive Analytics**
 - Financial performance dashboards  
 - Revenue, cost, and KPI reporting  
 
-**Diagnostic Analytics (Why did it happen?)**
+**Diagnostic Analytics**
 - Variance analysis & root cause investigation  
 - Trend and anomaly analysis  
 
-**Predictive Analytics (What will happen?)**
+**Predictive Analytics**
 - Revenue, expense, or demand forecasting  
 
-**Prescriptive Analytics (How can we make it happen?)**
+**Prescriptive Analytics**
 - Scenario analysis & decision recommendations  
 
 ---
