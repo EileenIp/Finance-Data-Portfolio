@@ -1,51 +1,141 @@
-# 💰 Finance-Data-Portfolio
-### 👩‍💼 Data Analyst — Finance
-[View Data Analyst (Finance) Projects](LINK_TO_FINANCE_DA_README)
+# 💳 Finance Analytics Projects
 
-**Descriptive Analytics**
-- Financial performance dashboards  
-- Revenue, cost, and KPI reporting  
+This section contains data projects focused on **financial performance, risk analysis, customer behaviour, and strategic decision-making** in banking, fintech, and investment contexts.
 
-**Diagnostic Analytics**
-- Variance analysis & root cause investigation  
-- Trend and anomaly analysis  
-
-**Predictive Analytics**
-- Revenue, expense, or demand forecasting  
-
-**Prescriptive Analytics**
-- Scenario analysis & decision recommendations  
+Projects are organised by **data role** and grouped by **business function**.
 
 ---
 
-### 🧠 Data Scientist — Finance
-[View Data Scientist (Finance) Projects](LINK_TO_FINANCE_DS_README)
+## 📊 Data Analyst Projects
+Focus: financial reporting, dashboards, descriptive & diagnostic analytics
 
-**Descriptive Analytics**
-- Exploratory analysis of financial datasets  
+### 💰 Finance Analytics
+#### 📊 Financial Performance & KPI Dashboard
+- Analysed revenue, costs, and profitability trends
+- Identified key financial drivers and anomalies
 
-**Diagnostic Analytics**
-- Feature importance & risk driver analysis  
-
-**Predictive Analytics**
-- Credit risk, fraud detection, or price prediction models  
-
-**Prescriptive Analytics**
-- Optimisation models & strategy recommendations  
+🔗 **Project Link:**  
+➡️ https://github.com/yourusername/finance-kpi-dashboard
 
 ---
 
-### ⚙️ Data Engineer — Finance
-[View Data Engineer (Finance) Projects](LINK_TO_FINANCE_DE_README)
+### 📈 Sales Analytics
+#### 💳 Financial Product Sales Analysis
+- Analysed sales performance across financial products
+- Identified high-performing channels and segments
 
-**Descriptive Analytics**
-- Financial data pipelines & reporting systems  
+🔗 **Project Link:**  
+➡️ https://github.com/yourusername/financial-product-sales
 
-**Diagnostic Analytics**
-- Data quality checks & reconciliation pipelines  
+---
 
-**Predictive Analytics**
-- Feature pipelines for ML and forecasting models  
+### 📣 Marketing Analytics
+#### 📬 Campaign Performance & Customer Acquisition Analysis
+- Measured ROI and acquisition cost across campaigns
+- Identified drivers of successful customer acquisition
 
-**Prescriptive Analytics**
-- Scalable, compliant data architecture design  
+🔗 **Project Link:**  
+➡️ https://github.com/yourusername/finance-marketing-roi
+
+---
+
+### 📦 Product Analytics
+#### 🧾 Financial Product Usage & Retention Analysis
+- Analysed product usage, churn, and engagement
+- Identified factors influencing retention
+
+🔗 **Project Link:**  
+➡️ https://github.com/yourusername/product-retention-analysis
+
+---
+
+## 🧠 Data Scientist Projects
+Focus: predictive modelling, risk models, NLP, experimentation
+
+### 💰 Finance & Strategy
+#### 📈 Post-Earnings Abnormal Returns Prediction (NLP)
+- Analysed earnings call transcripts using NLP
+- Predicted market reaction post-announcement
+
+🔗 **Project Link:**  
+➡️ https://github.com/yourusername/earnings-call-nlp
+
+---
+
+### 📈 Sales Forecasting
+#### 🧮 Financial Product Demand Forecasting
+- Built models to forecast demand for financial products
+- Supported sales and capacity planning
+
+🔗 **Project Link:**  
+➡️ https://github.com/yourusername/financial-demand-forecasting
+
+---
+
+### 📣 Marketing Science
+#### 🎯 Customer Segmentation & Lifetime Value Prediction
+- Clustered customers by behaviour and value
+- Predicted CLV for targeted marketing
+
+🔗 **Project Link:**  
+➡️ https://github.com/yourusername/clv-prediction
+
+---
+
+### 📦 Product Science
+#### 🧠 Credit Risk & Default Prediction
+- Built models to predict credit risk and default
+- Evaluated fairness and performance metrics
+
+🔗 **Project Link:**  
+➡️ https://github.com/yourusername/credit-risk-model
+
+---
+
+## 🛠 Data Engineer Projects
+Focus: data pipelines, data quality, scalability, governance
+
+### 💰 Finance Data Engineering
+#### 🏗 Financial Transaction ETL Pipeline
+- Built robust pipelines for transaction data
+- Ensured data quality and reconciliation
+
+🔗 **Project Link:**  
+➡️ https://github.com/yourusername/transaction-etl-pipeline
+
+---
+
+### 📈 Sales Data Engineering
+#### 🔄 Financial Sales Data Warehouse
+- Designed star schemas for sales analytics
+- Enabled fast reporting and insights
+
+🔗 **Project Link:**  
+➡️ https://github.com/yourusername/finance-sales-warehouse
+
+---
+
+### 📣 Marketing Data Engineering
+#### 📡 Customer Interaction Data Pipeline
+- Integrated CRM and marketing data sources
+- Enabled cross-channel analytics
+
+🔗 **Project Link:**  
+➡️ https://github.com/yourusername/customer-data-pipeline
+
+---
+
+### 📦 Product Data Engineering
+#### 🧱 Financial Product Event Tracking Pipeline
+- Designed event-level product analytics pipelines
+- Supported experimentation and product decisions
+
+🔗 **Project Link:**  
+➡️ https://github.com/yourusername/product-event-pipeline
+
+---
+
+## 🧭 Key Skills Demonstrated
+- Financial analytics and risk modelling
+- Machine learning & NLP in finance
+- Production-grade data engineering workflows
