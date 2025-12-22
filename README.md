@@ -132,10 +132,3 @@ Focus: data pipelines, data quality, scalability, governance
 
 🔗 **Project Link:**  
 ➡️ https://github.com/yourusername/product-event-pipeline
-
----
-
-## 🧭 Key Skills Demonstrated
-- Financial analytics and risk modelling
-- Machine learning & NLP in finance
-- Production-grade data engineering workflows
