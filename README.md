@@ -52,43 +52,53 @@ Focus: financial reporting, dashboards, descriptive & diagnostic analytics
 ## 🧠 Data Scientist Projects
 Focus: predictive modelling, risk models, NLP, experimentation
 
-### 💰 Finance & Strategy
-#### 📈 Post-Earnings Abnormal Returns Prediction (NLP)
-- Analysed earnings call transcripts using NLP
-- Predicted market reaction post-announcement
+### 💰 Finance
+#### Portfolio Optimisation & Risk Modelling with Bitcoin  
+- Analysed **10+ years of historical Bitcoin, S&P 500, and gold price data** (3,500+ trading days) to evaluate portfolio diversification benefits and risk-return trade-offs 
+- Built **Monte Carlo simulations and efficient frontier models** to compare inflation-adjusted returns across asset allocations  
+- Quantified Bitcoin’s **3× higher average return but 2.5× higher volatility** relative to equities  
+- Identified an **optimal 5% Bitcoin allocation** that improved portfolio Sharpe ratio to **0.72** (**+15% vs traditional portfolio**)  
 
 🔗 **Project Link:**  
-➡️ https://github.com/yourusername/earnings-call-nlp
+➡️ https://github.com/EileenIp/Visualisation-of-Bitcoin-s-impact-on-a-basic-Portfolio
 
 ---
 
-### 📈 Sales Forecasting
-#### 🧮 Financial Product Demand Forecasting
-- Built models to forecast demand for financial products
-- Supported sales and capacity planning
+### 📈 Sales
+#### Stock Price Trend Forecasting
+- Forecasted **daily stock price trends** using time-series regression models trained on **3 years of historical trading data** (1,000+ observations)  
+- Engineered predictive features (e.g. **volume-based indicators**) to capture market momentum and behavioural signals  
+- Reduced **mean absolute error from 0.87% to 0.47%** through feature engineering and model refinement  
+- Optimised preprocessing and scaling pipelines, improving **model runtime by 25%** for faster back-testing and experimentation  
 
 🔗 **Project Link:**  
-➡️ https://github.com/yourusername/financial-demand-forecasting
+➡️ https://github.com/EileenIp/Stock-Market-Predictor
 
 ---
 
-### 📣 Marketing Science
-#### 🎯 Customer Segmentation & Lifetime Value Prediction
-- Clustered customers by behaviour and value
-- Predicted CLV for targeted marketing
+### 📣 Marketing
+#### Bank Customer Segmentation 
+- Modelled **1,200+ bank customer profiles** using logistic regression, decision trees, and bagging to identify behavioural drivers of conversion  
+- Improved **model accuracy from 72% to 82%** through feature selection and hyperparameter tuning  
+- Used decision trees for **model interpretability**, translating statistical patterns into business-ready decision rules  
+- Identified **high-value vs low-engagement customer segments**, enabling targeted marketing and upsell strategies  
+- Delivered insights highlighting the **top 5 features influencing conversion likelihood**  
 
 🔗 **Project Link:**  
-➡️ https://github.com/yourusername/clv-prediction
+➡️ https://github.com/EileenIp/Bank-Marketing-Segmentation
 
 ---
 
-### 📦 Product Science
-#### 🧠 Credit Risk & Default Prediction
-- Built models to predict credit risk and default
-- Evaluated fairness and performance metrics
+### 📦 Product
+#### Credit Card Fraud Detection & Risk Classification  
+- Processed **284K+ anonymised credit card transactions** with severe class imbalance (fraud <2%)  
+- Applied **SMOTE and ADASYN** to enhance minority-class detection and compared **5 classification models**  
+- Achieved best performance using **Logistic Regression + SMOTE**, improving **ROC-AUC from 82% → 94%** and **recall by 28%**  
+- Identified **top 5 fraud risk drivers**, enabling targeted monitoring and proactive fraud prevention strategies  
+- Framed outputs for **stakeholder decision-making** around risk controls and model trade-offs  
 
 🔗 **Project Link:**  
-➡️ https://github.com/yourusername/credit-risk-model
+➡️ https://github.com/EileenIp/Credit-Card-Fraud-Classifier
 
 ---
 
