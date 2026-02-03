@@ -15,7 +15,7 @@ Focus: financial reporting, dashboards, descriptive & diagnostic analytics
 - Identified key financial drivers and anomalies
 
 🔗 **Project Link:**  
-➡️ https://github.com/yourusername/finance-kpi-dashboard
+➡️ https://github.com/EileenIp/Finance-Performance-Dashboard
 
 ---
 
