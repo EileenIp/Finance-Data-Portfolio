@@ -1,180 +1,193 @@
-# 💳 Finance Analytics Projects
+# 💳 Finance Data Portfolio
 
-This section contains data projects focused on **financial performance, risk analysis, customer behaviour, and strategic decision-making** in banking, fintech, and investment contexts.
+> A collection of end-to-end data projects spanning **analytics**, **data science**, and **data engineering** — built around real-world finance, banking, and investment use cases.
 
-Projects are organised by **data role** and grouped by **business function**.
+---
+
+## 🗂️ Projects Overview
+
+| Domain | 📊 Data Analyst | 🧠 Data Scientist | 🛠️ Data Engineer |
+|--------|----------------|------------------|-----------------|
+| 💰 **Finance** | [Finance Performance Dashboard](#-finance-performance-dashboard) · [Insurance Risk & Claims](#️-insurance-risk--claims-analysis-dashboard) | [Portfolio Optimisation & Risk Modelling](#-portfolio-optimisation--risk-modelling-with-bitcoin) | [Financial Transaction ETL Pipeline](#️-data-engineer-projects) *(soon)* |
+| 🏦 **Sales** | [Bank Loan Application Tracking](#-bank-loan-application-tracking-dashboard) | [Stock Price Trend Forecasting](#-stock-price-trend-forecasting) | [Financial Sales Data Warehouse](#️-data-engineer-projects) *(soon)* |
+| 📣 **Marketing** | [Bank Marketing Campaign](#-bank-marketing-campaign-dashboard) | [Bank Customer Segmentation](#-bank-customer-segmentation) | [Customer Interaction Data Pipeline](#️-data-engineer-projects) *(soon)* |
+| 📦 **Product** | [Bank Customer Churn Analysis](#-bank-customer-churn-analysis-dashboard) · [Fraud Transaction Monitoring](#-bank-fraud-transaction-monitoring-dashboard) | [Credit Card Fraud Detection](#-credit-card-fraud-detection--risk-classification) | [Product Event Tracking Pipeline](#️-data-engineer-projects) *(soon)* |
 
 ---
 
 ## 📊 Data Analyst Projects
-Focus: financial reporting, dashboards, descriptive & diagnostic analytics
-
-## 💰 Finance Analytics
-Projects focused on **financial performance, risk, claims, and portfolio monitoring**.
-
-### 📌 Finance Performance Dashboard
-- Analysed total sales **actual vs target** performance over time
-- Identified variance trends, underperformance periods, and YTD gaps
-- Built executive-level KPIs for financial decision-making
-
-🔗 **Project Link:**  
-➡️ https://github.com/EileenIp/Finance-Performance-Dashboard
-
-### 📌 Insurance Risk & Claims Analysis Dashboard
-- Analysed total claims exposure across policies
-- Identified high-risk segments by vehicle use, age group, location, and education
-- Supported underwriting and pricing insights using claims data
-
-🔗 **Project Link:**  
-➡️ https://github.com/EileenIp/Insurance-Risk-Claims-Analysis-Dashboard
 
 ---
 
-## 🏦 Sales Analytics
-Projects focused on **loan demand, applications, and revenue-driving activities**.
+### 💰 Finance Performance Dashboard
+
+**What it does:** Tracks revenue against targets and surfaces the story behind the numbers.
+
+| | |
+|---|---|
+| 📌 **Key Analysis** | Actual vs target sales performance over time |
+| 🔍 **Insights** | Variance trends, underperformance periods, YTD gaps |
+| 👥 **Audience** | Executive-level KPI reporting |
+
+[![View Project](https://img.shields.io/badge/View%20Project-Finance%20Performance%20Dashboard-blue?style=for-the-badge&logo=github)](https://github.com/EileenIp/Finance-Performance-Dashboard)
+
+---
+
+### 🛡️ Insurance Risk & Claims Analysis Dashboard
+
+**What it does:** Maps claims exposure across a policy portfolio to support smarter underwriting decisions.
+
+| | |
+|---|---|
+| 📌 **Key Analysis** | Total claims exposure across policies |
+| 🔍 **Insights** | High-risk segments by vehicle use, age, location & education |
+| 👥 **Audience** | Underwriting & pricing teams |
+
+[![View Project](https://img.shields.io/badge/View%20Project-Insurance%20Risk%20%26%20Claims-blue?style=for-the-badge&logo=github)](https://github.com/EileenIp/Insurance-Risk-Claims-Analysis-Dashboard)
+
+---
+
+### 🏦 Bank Loan Application Tracking Dashboard
+
+**What it does:** Monitors the full loan pipeline from application volume to funded outcomes.
 
 ### 📌 Bank Loan Application Tracking Dashboard
-- Monitored loan application volumes and funding performance
-- Analysed good vs bad loans and interest rate patterns
-- Evaluated borrower profiles by term length, employment, location, and purpose
 
-🔗 **Project Link:**  
-➡️ https://github.com/EileenIp/Bank-Loan-Application-Tracking-Dashboard
+| | |
+|---|---|
+| 📌 **Key Analysis** | Loan application volumes and funding performance |
+| 🔍 **Insights** | Good vs bad loans, interest rate patterns, borrower profiles |
+| 👥 **Audience** | Lending & credit risk teams |
 
----
-
-## 📣 Marketing Analytics
-Projects focused on **customer acquisition, campaign performance, and conversion optimisation**.
-
-### 📌 Bank Marketing Campaign Dashboard
-- Analysed term deposit subscription behaviour
-- Identified high-conversion customer segments and contact channels
-- Evaluated campaign timing, duration, and demographic effectiveness
-
-🔗 **Project Link:**  
-➡️ https://github.com/EileenIp/Bank-Marketing-Campaign-Dashboard
+[![View Project](https://img.shields.io/badge/View%20Project-Bank%20Loan%20Tracking-blue?style=for-the-badge&logo=github)](https://github.com/EileenIp/Bank-Loan-Application-Tracking-Dashboard)
 
 ---
 
-## 📦 Product & Customer Analytics
-Projects focused on **customer behaviour, retention, and trust**.
+### 📣 Bank Marketing Campaign Dashboard
 
-## 📌 Bank Customer Churn Analysis Dashboard
-- Identified key churn drivers across demographics and financial behaviour
-- Analysed churn by geography, gender, age, balance, and product ownership
-- Supported retention and cross-sell strategy design
+**What it does:** Evaluates which customers, channels, and timings drive term deposit conversions.
 
-🔗 **Project Link:**  
-➡️ https://github.com/EileenIp/Bank-Customer-Churn-Dashboard
+| | |
+|---|---|
+| 📌 **Key Analysis** | Term deposit subscription behaviour |
+| 🔍 **Insights** | High-conversion segments, contact channels, campaign timing, duration, demographic effectiveness |
+| 👥 **Audience** | Marketing & campaign strategy teams |
 
-## 📌 Bank Fraud Transaction Monitoring Dashboard
-- Monitored transaction performance and fraud indicators
-- Identified high-risk regions, transaction types, and network slices
-- Enabled drill-down analysis for fraud investigation workflows
+[![View Project](https://img.shields.io/badge/View%20Project-Bank%20Marketing%20Campaign-blue?style=for-the-badge&logo=github)](https://github.com/EileenIp/Bank-Marketing-Campaign-Dashboard)
 
-🔗 **Project Link:**  
-➡️ https://github.com/EileenIp/Bank-Fraud-Transaction-Monitoring-Dashboard
+---
+
+### 📉 Bank Customer Churn Analysis Dashboard
+
+**What it does:** Diagnoses why customers leave and where retention efforts should focus.
+
+| | |
+|---|---|
+| 📌 **Key Analysis** | Churn drivers across demographics and financial behaviour |
+| 🔍 **Insights** | Churn by geography, gender, age, balance & product ownership |
+| 👥 **Audience** | Retention & product teams |
+
+[![View Project](https://img.shields.io/badge/View%20Project-Customer%20Churn%20Analysis-blue?style=for-the-badge&logo=github)](https://github.com/EileenIp/Bank-Customer-Churn-Dashboard)
+
+---
+
+### 🚨 Bank Fraud Transaction Monitoring Dashboard
+
+**What it does:** Provides real-time-style fraud visibility with drill-down investigation capability.
+
+| | |
+|---|---|
+| 📌 **Key Analysis** | Transaction performance and fraud indicators |
+| 🔍 **Insights** | High-risk regions, transaction types, and network slices |
+| 👥 **Audience** | Fraud & compliance investigation teams |
+
+[![View Project](https://img.shields.io/badge/View%20Project-Fraud%20Transaction%20Monitoring-blue?style=for-the-badge&logo=github)](https://github.com/EileenIp/Bank-Fraud-Transaction-Monitoring-Dashboard)
 
 ---
 
 ## 🧠 Data Scientist Projects
-Focus: predictive modelling, risk models, NLP, experimentation
-
-## 💰 Finance
-Projects focused on **financial performance, risk, claims, and portfolio monitoring**.
-
-## 📌 Portfolio Optimisation & Risk Modelling with Bitcoin  
-- Analysed **10+ years of historical Bitcoin, S&P 500, and gold price data** (3,500+ trading days) to evaluate portfolio diversification benefits and risk-return trade-offs 
-- Built **Monte Carlo simulations and efficient frontier models** to compare inflation-adjusted returns across asset allocations  
-- Quantified Bitcoin’s **3× higher average return but 2.5× higher volatility** relative to equities  
-- Identified an **optimal 5% Bitcoin allocation** that improved portfolio Sharpe ratio to **0.72** (**+15% vs traditional portfolio**)  
-
-🔗 **Project Link:**  
-➡️ https://github.com/EileenIp/Visualisation-of-Bitcoin-s-impact-on-a-basic-Portfolio
 
 ---
 
-## 📈 Sales
-Projects focused on **loan demand, applications, and revenue-driving activities**.
+### 📈 Portfolio Optimisation & Risk Modelling with Bitcoin
 
-## 📌 Stock Price Trend Forecasting
-- Forecasted **daily stock price trends** using time-series regression models trained on **3 years of historical trading data** (1,000+ observations)  
-- Engineered predictive features (e.g. **volume-based indicators**) to capture market momentum and behavioural signals  
-- Reduced **mean absolute error from 0.87% to 0.47%** through feature engineering and model refinement  
-- Optimised preprocessing and scaling pipelines, improving **model runtime by 25%** for faster back-testing and experimentation  
+**What it does:** Quantifies whether adding Bitcoin to a traditional portfolio improves risk-adjusted returns.
 
-🔗 **Project Link:**  
-➡️ https://github.com/EileenIp/Stock-Market-Predictor
+| | |
+|---|---|
+| 📌 **Dataset** | 10+ years of Bitcoin, S&P 500 & gold data (3,500+ trading days) |
+| ⚙️ **Methods** | Monte Carlo simulation, efficient frontier modelling |
+| 🏆 **Result** | Optimal 5% Bitcoin allocation → Sharpe ratio of **0.72** (+15% vs traditional portfolio) |
+| 🔍 **Key Finding** | Bitcoin showed 3× higher returns but 2.5× higher volatility vs equities |
 
----
-
-## 📣 Marketing
-Projects focused on **customer acquisition, campaign performance, and conversion optimisation**.
-
-## 📌Bank Customer Segmentation 
-- Modelled **1,200+ bank customer profiles** using logistic regression, decision trees, and bagging to identify behavioural drivers of conversion  
-- Improved **model accuracy from 72% to 82%** through feature selection and hyperparameter tuning  
-- Used decision trees for **model interpretability**, translating statistical patterns into business-ready decision rules  
-- Identified **high-value vs low-engagement customer segments**, enabling targeted marketing and upsell strategies  
-- Delivered insights highlighting the **top 5 features influencing conversion likelihood**  
-
-🔗 **Project Link:**  
-➡️ https://github.com/EileenIp/Bank-Marketing-Segmentation
+[![View Project](https://img.shields.io/badge/View%20Project-Portfolio%20Optimisation-green?style=for-the-badge&logo=github)](https://github.com/EileenIp/Visualisation-of-Bitcoin-s-impact-on-a-basic-Portfolio)
 
 ---
 
-### 📦 Product
-Projects focused on **customer behaviour, retention, and trust**.
+### 📊 Stock Price Trend Forecasting
 
-#### Credit Card Fraud Detection & Risk Classification  
-- Processed **284K+ anonymised credit card transactions** with severe class imbalance (fraud <2%)  
-- Applied **SMOTE and ADASYN** to enhance minority-class detection and compared **5 classification models**  
-- Achieved best performance using **Logistic Regression + SMOTE**, improving **ROC-AUC from 82% → 94%** and **recall by 28%**  
-- Identified **top 5 fraud risk drivers**, enabling targeted monitoring and proactive fraud prevention strategies  
-- Framed outputs for **stakeholder decision-making** around risk controls and model trade-offs  
+**What it does:** Forecasts daily stock price direction using engineered features and time-series regression.
 
-🔗 **Project Link:**  
-➡️ https://github.com/EileenIp/Credit-Card-Fraud-Classifier
+| | |
+|---|---|
+| 📌 **Dataset** | 3 years of historical trading data (1,000+ observations) |
+| ⚙️ **Methods** | Time-series regression, feature engineering (volume-based indicators) |
+| 🏆 **Result** | MAE reduced from **0.87% → 0.47%**|
+| 🔍 **Key Finding** | Volume-based momentum signals were top predictors of price movement |
 
----
-
-## 🛠 Data Engineer Projects (UNDER CONSTRUCTION)
-Focus: data pipelines, data quality, scalability, governance
-
-### 💰 Finance Data Engineering
-#### 🏗 Financial Transaction ETL Pipeline
-- Built robust pipelines for transaction data
-- Ensured data quality and reconciliation
-
-🔗 **Project Link:**  
-➡️ https://github.com/yourusername/transaction-etl-pipeline
+[![View Project](https://img.shields.io/badge/View%20Project-Stock%20Price%20Forecasting-green?style=for-the-badge&logo=github)](https://github.com/EileenIp/Stock-Market-Predictor)
 
 ---
 
-### 📈 Sales Data Engineering
-#### 🔄 Financial Sales Data Warehouse
-- Designed star schemas for sales analytics
-- Enabled fast reporting and insights
+### 🎯 Bank Customer Segmentation
 
-🔗 **Project Link:**  
-➡️ https://github.com/yourusername/finance-sales-warehouse
+**What it does:** Identifies which customer segments are most likely to convert and why.
 
----
+| | |
+|---|---|
+| 📌 **Dataset** | 1,200+ bank customer profiles |
+| ⚙️ **Methods** | Logistic regression, decision trees, bagging, hyperparameter tuning |
+| 🏆 **Result** | Model accuracy improved from **72% → 82%** |
+| 🔍 **Key Finding** | Top 5 features identified for conversion likelihood |
 
-### 📣 Marketing Data Engineering
-#### 📡 Customer Interaction Data Pipeline
-- Integrated CRM and marketing data sources
-- Enabled cross-channel analytics
-
-🔗 **Project Link:**  
-➡️ https://github.com/yourusername/customer-data-pipeline
+[![View Project](https://img.shields.io/badge/View%20Project-Customer%20Segmentation-green?style=for-the-badge&logo=github)](https://github.com/EileenIp/Bank-Marketing-Segmentation)
 
 ---
 
-### 📦 Product Data Engineering
-#### 🧱 Financial Product Event Tracking Pipeline
-- Designed event-level product analytics pipelines
-- Supported experimentation and product decisions
+### 🔒 Credit Card Fraud Detection & Risk Classification
 
-🔗 **Project Link:**  
-➡️ https://github.com/yourusername/product-event-pipeline
+**What it does:** Detects fraudulent transactions in severely imbalanced data with production-ready precision.
+
+| | |
+|---|---|
+| 📌 **Dataset** | 284K+ anonymised credit card transactions with severe class imbalance (fraud < 2%) |
+| ⚙️ **Methods** | SMOTE, ADASYN, 5 classification models compared |
+| 🏆 **Result** | Logistic Regression + SMOTE → ROC-AUC **82% → 94%**, recall **+28%** |
+| 🔍 **Key Finding** | Top 5 fraud risk drivers identified for targeted monitoring |
+
+[![View Project](https://img.shields.io/badge/View%20Project-Fraud%20Detection-green?style=for-the-badge&logo=github)](https://github.com/EileenIp/Credit-Card-Fraud-Classifier)
+
+---
+
+## 🛠️ Data Engineer Projects
+
+> *(Under Construction — check back for updates)*
+
+| Project | Domain | Description |
+|---------|--------|-------------|
+| 🏗️ **Financial Transaction ETL Pipeline** | 💰 Finance | Robust pipelines for transaction data with quality checks and reconciliation |
+| 🔄 **Financial Sales Data Warehouse** | 🏦 Sales | Star schema design for fast sales reporting and analytics |
+| 📡 **Customer Interaction Data Pipeline** | 📣 Marketing | CRM and marketing data integration for cross-channel analytics |
+| 🧱 **Financial Product Event Tracking Pipeline** | 📦 Product | Event-level product analytics supporting experimentation and decisions |
+
+---
+
+## 🧰 Tech Stack
+
+| Category | Tools |
+|----------|-------|
+| **Languages** | Python, SQL, R |
+| **Visualisation** | Power BI, Tableau |
+| **ML & Stats** | scikit-learn, pandas, NumPy, statsmodels |
+| **Finance** | Monte Carlo simulation, efficient frontier, time-series forecasting |
+| **Data Engineering** | ETL pipelines, star schemas, event tracking |
